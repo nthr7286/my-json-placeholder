@@ -1,48 +1,14 @@
 {
-  "5e699b1fb67a735204880f2d": {
-    "name": {
-      "first": "Roberta",
-      "last": "Horton"
-    },
-    "email": "roberta.horton@undefined.biz",
-    "greeting": "Hello, Roberta! You have 7 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  "5e699b1f400d8b2dae6cada6": {
-    "name": {
-      "first": "Jenna",
-      "last": "Carney"
-    },
-    "email": "jenna.carney@undefined.name",
-    "greeting": "Hello, Jenna! You have 9 unread messages.",
-    "favoriteFruit": "apple"
-
-  },
-  "5e699b1f517f2b17efa944f9": {
-    "name": {
-      "first": "Tia",
-      "last": "Harrison"
-    },
-    "email": "tia.harrison@undefined.co.uk",
-    "greeting": "Hello, Tia! You have 8 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  "5e699b1fc601a5e6418003d0": {
-    "name": {
-      "first": "Ida",
-      "last": "Shelton"
-    },
-    "email": "ida.shelton@undefined.biz",
-    "greeting": "Hello, Ida! You have 5 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  "5e699b1f3b2e468fd47c82c0": {
-    "name": {
-      "first": "Nunez",
-      "last": "Sharpe"
-    },
-    "email": "nunez.sharpe@undefined.me",
-    "greeting": "Hello, Nunez! You have 5 unread messages.",
-    "favoriteFruit": "apple"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
