@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "users": [
     [
       {
-        "_id": "5e69a2d3c181b1c6b6c41c7a",
+        "id": "5e69a2d3c181b1c6b6c41c7a",
         "name": {
           "first": "Angelita",
           "last": "Wright"
@@ -12,7 +12,7 @@
         "favoriteFruit": "banana"
       },
       {
-        "_id": "5e69a2d3ccd491254f5690b6",
+        "id": "5e69a2d3ccd491254f5690b6",
         "name": {
           "first": "Jeannie",
           "last": "Hatfield"
@@ -22,7 +22,7 @@
         "favoriteFruit": "strawberry"
       },
       {
-        "_id": "5e69a2d3fa0b480c4bbe4dbb",
+        "id": "5e69a2d3fa0b480c4bbe4dbb",
         "name": {
           "first": "Bell",
           "last": "Powell"
@@ -32,7 +32,7 @@
         "favoriteFruit": "strawberry"
       },
       {
-        "_id": "5e69a2d35f096a9313386f2d",
+        "id": "5e69a2d35f096a9313386f2d",
         "name": {
           "first": "Carlson",
           "last": "Noble"
@@ -42,7 +42,7 @@
         "favoriteFruit": "apple"
       },
       {
-        "_id": "5e69a2d325a0dd4ab08a6a1d",
+        "id": "5e69a2d325a0dd4ab08a6a1d",
         "name": {
           "first": "Harvey",
           "last": "Woodward"
@@ -52,7 +52,7 @@
         "favoriteFruit": "banana"
       },
       {
-        "_id": "5e69a2d3d9ba46a3661a01e6",
+        "id": "5e69a2d3d9ba46a3661a01e6",
         "name": {
           "first": "Ewing",
           "last": "Allen"
@@ -62,7 +62,7 @@
         "favoriteFruit": "strawberry"
       },
       {
-        "_id": "5e69a2d30c67ab09527c3499",
+        "id": "5e69a2d30c67ab09527c3499",
         "name": {
           "first": "Santos",
           "last": "Hines"
@@ -72,7 +72,7 @@
         "favoriteFruit": "banana"
       },
       {
-        "_id": "5e69a2d30a91c3b9cec9d81e",
+        "id": "5e69a2d30a91c3b9cec9d81e",
         "name": {
           "first": "Althea",
           "last": "Ware"
@@ -82,7 +82,7 @@
         "favoriteFruit": "strawberry"
       },
       {
-        "_id": "5e69a2d3a1643d2fc6d19509",
+        "id": "5e69a2d3a1643d2fc6d19509",
         "name": {
           "first": "Goldie",
           "last": "Clarke"
