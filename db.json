@@ -1,14 +1,96 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    [
+      {
+        "_id": "5e69a2d3c181b1c6b6c41c7a",
+        "name": {
+          "first": "Angelita",
+          "last": "Wright"
+        },
+        "email": "angelita.wright@undefined.com",
+        "greeting": "Hello, Angelita! You have 6 unread messages.",
+        "favoriteFruit": "banana"
+      },
+      {
+        "_id": "5e69a2d3ccd491254f5690b6",
+        "name": {
+          "first": "Jeannie",
+          "last": "Hatfield"
+        },
+        "email": "jeannie.hatfield@undefined.co.uk",
+        "greeting": "Hello, Jeannie! You have 5 unread messages.",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "_id": "5e69a2d3fa0b480c4bbe4dbb",
+        "name": {
+          "first": "Bell",
+          "last": "Powell"
+        },
+        "email": "bell.powell@undefined.tv",
+        "greeting": "Hello, Bell! You have 9 unread messages.",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "_id": "5e69a2d35f096a9313386f2d",
+        "name": {
+          "first": "Carlson",
+          "last": "Noble"
+        },
+        "email": "carlson.noble@undefined.ca",
+        "greeting": "Hello, Carlson! You have 6 unread messages.",
+        "favoriteFruit": "apple"
+      },
+      {
+        "_id": "5e69a2d325a0dd4ab08a6a1d",
+        "name": {
+          "first": "Harvey",
+          "last": "Woodward"
+        },
+        "email": "harvey.woodward@undefined.biz",
+        "greeting": "Hello, Harvey! You have 6 unread messages.",
+        "favoriteFruit": "banana"
+      },
+      {
+        "_id": "5e69a2d3d9ba46a3661a01e6",
+        "name": {
+          "first": "Ewing",
+          "last": "Allen"
+        },
+        "email": "ewing.allen@undefined.me",
+        "greeting": "Hello, Ewing! You have 8 unread messages.",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "_id": "5e69a2d30c67ab09527c3499",
+        "name": {
+          "first": "Santos",
+          "last": "Hines"
+        },
+        "email": "santos.hines@undefined.biz",
+        "greeting": "Hello, Santos! You have 10 unread messages.",
+        "favoriteFruit": "banana"
+      },
+      {
+        "_id": "5e69a2d30a91c3b9cec9d81e",
+        "name": {
+          "first": "Althea",
+          "last": "Ware"
+        },
+        "email": "althea.ware@undefined.org",
+        "greeting": "Hello, Althea! You have 8 unread messages.",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "_id": "5e69a2d3a1643d2fc6d19509",
+        "name": {
+          "first": "Goldie",
+          "last": "Clarke"
+        },
+        "email": "goldie.clarke@undefined.us",
+        "greeting": "Hello, Goldie! You have 10 unread messages.",
+        "favoriteFruit": "apple"
+      }
+    ]
+  ]
 }
